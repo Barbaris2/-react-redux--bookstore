@@ -26,6 +26,19 @@ ReactDOM.render(
 );
 /**
   Все компоненты App имеют доступ к роутингу, имеют доступ к
-  bookstoreService. Если в них будут ошибки эти ошибки будут отлавливаться
-  ErrorBoundry. Все компоненты имеют доступ к redux-store.
+  bookstoreService. Если в них будут ошибки эти ошибки будут 
+  отлавливаться ErrorBoundry. Все компоненты имеют доступ к 
+  redux-store.
+
+  === Каркам react-redux приложения:
+  // Предоставляет доступ к redux-store
+  <Provider store={store}>
+    // Обработка ошибок в компанентах ниже
+    <ErrorBoundry>
+      // Передает сервис через ContextAPI
+      <BookstoreServiceProvider value={bookstoreService}>
+        // Роутинг
+        <Router>
+          // Приложение
+          <App />
  */
