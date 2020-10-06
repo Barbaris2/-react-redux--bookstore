@@ -1,4 +1,4 @@
-![](hhttps://github.com/Barbaris2/-ReactJS-breaking-bad-app/blob/master/image/bookstare.bmp)
+![](https://github.com/Barbaris2/-react-redux--bookstore/blob/master/image/bookstore.bmp)
 
 # [react-redux]-bookstore
 
