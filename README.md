@@ -2,7 +2,7 @@
 
 # [react-redux]-bookstore
 
-Это _react-приложение_ простой интернет-магазин по продаже книг. Практика работы с react и react-redux. Смотреть на [codesandbox.io](https://27ui1.csb.app/)
+Это _react-приложение_ простой интернет-магазин по продаже книг. Практика работы с react и react-redux. Смотреть на [codesandbox.io](https://812t9.csb.app/)
 
 ### Быстрый старт
 
